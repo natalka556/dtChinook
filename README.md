@@ -46,7 +46,7 @@ Bol navrhnutý **hviezdicový model (star schema)**, ktorý zabezpečuje efektí
 
 
 <p align="center">
-  <img src="" alt="ERD Schema">
+  <img src="https://github.com/natalka556/dtChinook/blob/main/hviezdicovaSchema.png" alt="ERD Schema">
   <br>
   <em> Hviezdicová schéma pre Chinook </em>
 </p>
@@ -163,7 +163,7 @@ DROP TABLE IF EXISTS mediatype_staging;
 ---
 ## **4 Vizualizácia dát**
 <p align="center">
-  <img src="" alt="ERD Schema">
+  <img src="https://github.com/natalka556/dtChinook/blob/main/dashboard.png" alt="ERD Schema">
   <br>
   <em> Dashboard datasetu Chinook </em>
 </p>
@@ -181,7 +181,7 @@ GROUP BY dd.month, dd.year;
 ```
 
 <p align="center">
-  <img src="" alt="ERD Schema">
+  <img src="https://github.com/natalka556/dtChinook/blob/main/predajZaMesiac.png" alt="ERD Schema">
   <br>
   <em> Chinook Hviezdicová Schéma </em>
 </p>
@@ -200,7 +200,7 @@ GROUP BY da.city;
 ```
 
 <p align="center">
-  <img src="" alt="ERD Schema">
+  <img src="https://github.com/natalka556/dtChinook/blob/main/podlaMesta.png" alt="ERD Schema">
   <br>
   <em> Chinook Hviezdicová Schéma </em>
 </p>
@@ -218,7 +218,7 @@ GROUP BY dt.iddm_tracks, dt.name;
 ```
 
 <p align="center">
-  <img src="" alt="ERD Schema">
+  <img src="https://github.com/natalka556/dtChinook/blob/main/podlaskladieb.png" alt="ERD Schema">
   <br>
   <em> Chinook Hviezdicová Schéma </em>
 </p>
@@ -237,7 +237,7 @@ ORDER BY total_sold DESC;
 ```
 
 <p align="center">
-  <img src="" alt="ERD Schema">
+  <img src="https://github.com/natalka556/dtChinook/blob/main/zanre.png" alt="ERD Schema">
   <br>
   <em> Chinook Hviezdicová Schéma </em>
 </p>
@@ -257,7 +257,7 @@ LIMIT 10;
 ```
 
 <p align="center">
-  <img src="" alt="ERD Schema">
+  <img src="https://github.com/natalka556/dtChinook/blob/main/skladby.png" alt="ERD Schema">
   <br>
   <em> Chinook Hviezdicová Schéma </em>
 </p>
