@@ -29,7 +29,7 @@ Dataset obsahuje tabulky:
 Zdrojové údaje sú organizované v relačnej štruktúre, ktorá je vizualizovaná prostredníctvom **entitno-relačnom diagrame (ERD)**:
 
 <p align="center">
-  <img src="" alt="ERD Schema">
+  <img src="https://github.com/natalka556/dtChinook/blob/main/schema.png" alt="ERD Schema">
   <br>
   <em> Entitno-relačná schéma Chinook </em>
 </p>
